@@ -115,3 +115,32 @@ The team will the 'Issues' feature available to us in github. When a new bug is 
 As mentioned above, the bugs will be recorded in github under issues. We will also have access to discord historical messages. If the issue tracker does not meet the needs of the team, a separate excel tracker will be created to provide an easily accessible area for listing. Similar to the QA changes, as an issue is resolved, the line will be struck through, and a note added by the person making the fixes or determining the bug to not be an issue.
 
 ## Module Four Project Log - Team Reflection and Alpha Release
+
+The Team had multiple discussions through text and voice during this week to discuss the progress on QA and general project status. Overall, the team feels the Alpha process has gone well. Communication has been open, everyone is working on their assigned roles, and the tools chosen in Module Two (Discord and the Excel task tracker) are working. The main lessons are about consistency: matching software versions, testing together earlier, and updating the tracker more diligently. 
+ 
+1. What went well in testing
+    - Communication: Every teammate named it as a strength. Members share progress, flag problems quickly, and stay in contact.
+    - Role ownership: Everyone has contributed to their own area (programming, level layout, main menu, and art), with only minor bumps.
+2. How bugs were identified and corrected
+    - Hands-on testing in Unreal: Walking through the levels and playing with the systems surfaced most issues. This is how the team found that the crypt map had no collision.
+      - Additionally, testing was done on a call with the team to showcase where errors were found outside the documentation. This showed how the error could be replicated.
+    - Version control: Frequent GitHub pulls and pushes kept files current and exposed miscommunication between team members' work.
+    - Team discussion: Reporting problems to the group helped narrow down causes, including collision, file, and Unreal version issues.
+3. What we would do differently
+    - Standardize the Unreal version: Soon as we started trying to merge documents, we realized there were multiple versions being used across members. A discussion should be had from the start to ensure everyone is on the same version to avoid issues loading updates and merging git branches.
+      - To correct this issue, a new repository was created. The programmer pushed the initial commit to main and the Team Lead took over migrating the other individual Unreal Engine projects into the main one. From there we created a working-branch and all updates were pushed to that branch.
+    - Test everyone's work together earlier to catch integration issues sooner.
+    - Clearer course expectations would have helped the team focus on the right areas. The PDF provided with project guidelines was extensive, but it seems the project does not require everything listed.
+    - Stronger GitHub skills across the team, with more in-depth understanding.
+4. Module Two tools that worked
+    - Discord: Helps with sharing art references, asking questions, seeing everyone's progress, and staying in contact.
+    - Excel task tracker: Keeps everyone focused on priorities, shows what remains, tracks what works and what doesn't, and lets members report completed work.
+5. Tools or techniques that were not helpful
+    - Challenges (not tool failures): 
+      - Texturing models in Maya has been the most time-consuming task for the Artist, so the plan is to finish the needed models first (axe, saw blade, doors) and texture afterward.
+      - The task tracker isn't always updated in real time, and the team wants to improve on that.
+      - Busy weekday work schedules have limited availability for meetings and slowed some art progress. It also limited communication this week.
+6. How the initial game design document analysis shaped our tools
+    - Team discussion: An early group discussion divided the work by role and established how we would communicate.
+    - Tool selection: The team agreed collectively on Discord for communication and Excel for tracking, as suggested by Tina after reviewing the design document. Both were seen as easy and effective.
+    - Broad task goals: Tools built around high-level goals help keep the team from getting stuck on one thing or drifting off track.
