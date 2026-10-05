@@ -144,3 +144,5 @@ The Team had multiple discussions through text and voice during this week to dis
     - Team discussion: An early group discussion divided the work by role and established how we would communicate.
     - Tool selection: The team agreed collectively on Discord for communication and Excel for tracking, as suggested by Tina after reviewing the design document. Both were seen as easy and effective.
     - Broad task goals: Tools built around high-level goals help keep the team from getting stuck on one thing or drifting off track.
+
+## Module Five Project Log - Team Reflection and Alpha Release
