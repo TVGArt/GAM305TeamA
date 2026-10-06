@@ -146,3 +146,17 @@ The Team had multiple discussions through text and voice during this week to dis
     - Broad task goals: Tools built around high-level goals help keep the team from getting stuck on one thing or drifting off track.
 
 ## Module Five Project Log - Team Reflection and Alpha Release
+1. What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+  - The majority of planned mechanics had been added and seem to be working as expected: enemies were in place, swinging axe model created by our artist was in place with alternating animations, a boss was added with a ranged attack with an additional ability to reflect the damage back to them. Our programmer put in many hours this week to be sure that there was a playable experience available to the testers.
+
+2. What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+  - It was difficult to balance real life with project expectations and areas of the project were delayed because of that. Any bugs or fixes that were needed in what had been completed during the week were simple to adjust. There was some difficulty with widgets but the UI/UX role was able to figure things out and implement them successfully.
+
+3. How were the previous evaluations integrated into this latest stage?
+  - We reviewed the previous QA list and created a new list for Beta that included all of the same checks. From Alpha to Beta we changed the health bar implementation, so while it existed and passed in the Alpha, it needed updating in the Beta. We understood how to test different aspects of the game and provide actionable feedback. We also adjusted the QA doc by removing areas we knew could not achieve at this stage while also keeping on track with the proper gameplay mechanics required of us.
+
+4. What would you do differently to improve the collaboration or development process?
+  - It is difficult to meet more often during the week due to work and family commitments, but we would be more active and responsive to one another in chat, while also remembering to lean on one another for knowledge and support. 
+
+5. Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+  - The project tracker is not being used as often as we hoped. Having a more dedicated project tracking system where documents could be attached and easily identified, owners could be tagged, and comments and feedback easily accessible. 
