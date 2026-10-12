@@ -145,7 +145,7 @@ The Team had multiple discussions through text and voice during this week to dis
     - Tool selection: The team agreed collectively on Discord for communication and Excel for tracking, as suggested by Tina after reviewing the design document. Both were seen as easy and effective.
     - Broad task goals: Tools built around high-level goals help keep the team from getting stuck on one thing or drifting off track.
 
-## Module Five Project Log - Team Reflection and Alpha Release
+## Module Five Project Log - Team Reflection and Beta Release
 1. What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
   - The majority of planned mechanics had been added and seem to be working as expected: enemies were in place, swinging axe model created by our artist was in place with alternating animations, a boss was added with a ranged attack with an additional ability to reflect the damage back to them. Our programmer put in many hours this week to be sure that there was a playable experience available to the testers.
 
@@ -156,7 +156,25 @@ The Team had multiple discussions through text and voice during this week to dis
   - We reviewed the previous QA list and created a new list for Beta that included all of the same checks. From Alpha to Beta we changed the health bar implementation, so while it existed and passed in the Alpha, it needed updating in the Beta. We understood how to test different aspects of the game and provide actionable feedback. We also adjusted the QA doc by removing areas we knew could not achieve at this stage while also keeping on track with the proper gameplay mechanics required of us.
 
 4. What would you do differently to improve the collaboration or development process?
-  - It is difficult to meet more often during the week due to work and family commitments, but we would be more active and responsive to one another in chat, while also remembering to lean on one another for knowledge and support. 
+  - It is difficult to meet more often during the week due to work and family commitments, but we would be more active and responsive to one another in chat, while also remembering to lean on one another for knowledge and support.
 
 5. Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
   - The project tracker is not being used as often as we hoped. Having a more dedicated project tracking system where documents could be attached and easily identified, owners could be tagged, and comments and feedback easily accessible. 
+
+## Module Six Project Log - Team Reflection and Final Release
+The final release is a large improvement over the beta release. The team is beyond proud of how everything came out and how we all worked together.
+
+1. What parts of the plan did the team perceive to go well? 
+  - The team was in complete agreement that the work has come together in a big way since the Beta release. After the Beta Release, we discussed what to prioritize for the final release and were not disappointed. All rooms have traps and keys, the dungeon has a custom texture, and the boss level has multiple phases. Working together and bouncing ideas off one another helped to keep everyone on track.
+
+2. What parts of the plan did the team perceive to go wrong? 
+  - The biggest issue for the team is scheduling. Throughout the week, everyone provided updates on what they were working on, but it is not the same as sitting together on a call and having a real-time discussion.
+
+3. How were the previous evaluations integrated into this latest stage? 
+  - At the end of every week, we have a call on discord where we play the working-branch version of the game. From there we decide what needs to be worked on for the final push for the version we are working on as well as what to prioritize for the next iteration. After the beta session the previous week, we prioritized enemies, traps, creating save points, and getting the health bars implemented properly. 
+
+4. What would you do differently to improve collaboration or development?  
+  - This week was an improvement over all other weeks. Having more consistent communication is important in any project and the team had more overall participation this week, leading to more successful submission. Meeting earlier in the week is difficult due to commitments outside coursework which makes some last minute bug fixes necessary. 
+
+5. Were there any tools or techniques that you did not find helpful? Why? 
+  - The Excel tracker was not a tool that was very helpful overall. While good in theory, it was not good in practice. A traditional project tracker would likely work better for the needs of the team, but the project lead did not want the team to have to create new accounts on different sites just for this term. We used it for the QA testing and recording testing and failing which supported the work for the following week, but for overall task tracking it was not useful. 
